@@ -1,0 +1,43 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "devcamp-2687351",
+    "dateExported": "2023-10-26T16:40:52.413Z",
+    "version": "1.1",
+    "folders": [
+        {
+            "_id": "95855194-ffb6-4f45-9a37-8b0f9b847c6a",
+            "name": "bootcamps",
+            "containerId": "",
+            "created": "2023-10-26T15:33:36.419Z",
+            "sortNum": 10000
+        }
+    ],
+    "requests": [
+        {
+            "_id": "4e5fb56b-c6ee-4729-bfdd-9181554a4611",
+            "colId": "aa3e3912-94a3-4812-8803-825b4139ceef",
+            "containerId": "95855194-ffb6-4f45-9a37-8b0f9b847c6a",
+            "name": "traer todos los bootcamps",
+            "url": "http://127.0.0.1:8888/api/v1/devcamp/bootcamps",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2023-10-26T15:33:55.651Z",
+            "modified": "2023-10-26T15:36:40.752Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "f84ec703-d9d0-4986-aaca-5d1e5777e1d1",
+            "colId": "aa3e3912-94a3-4812-8803-825b4139ceef",
+            "containerId": "95855194-ffb6-4f45-9a37-8b0f9b847c6a",
+            "name": "actualizar",
+            "url": "",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2023-10-26T16:33:59.529Z",
+            "modified": "2023-10-26T16:33:59.529Z",
+            "headers": []
+        }
+    ]
+}
